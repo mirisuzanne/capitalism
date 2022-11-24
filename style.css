@@ -17,7 +17,7 @@ header {
   background-color: #1f193a;
 }
 
-header :is(h1, p) {
+h1, blockquote {
   margin: 0;
 }
 
